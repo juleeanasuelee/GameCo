@@ -1,5 +1,5 @@
 # GameCo
-This SQL project was part of CareerFoundry's Data Analytics course in which I analyzed the PostgreSQL sample database of a fictional DVD rental company. 
+This project was part of CareerFoundry's Data Analytics course in which I analyzed GameCo's new games in Excel.
 # Objective 
  GameCo wants to use data to inform the development of new games. As such, CameCo asked me to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market. GameCo executives are open to hearing any insights I can pull from the data but are specifically interested in these questions: 
 
