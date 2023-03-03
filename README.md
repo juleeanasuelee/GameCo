@@ -1,20 +1,18 @@
 # GameCo
 This SQL project was part of CareerFoundry's Data Analytics course in which I analyzed the PostgreSQL sample database of a fictional DVD rental company. 
 # Objective 
-Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy: new online video service. Here are the main questions they’d like to answer:
+ GameCo wants to use data to inform the development of new games. As such, CameCo asked me to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market. GameCo executives are open to hearing any insights I can pull from the data but are specifically interested in these questions: 
 
-● Which movies contributed the most/least to revenue gain?
+● Are certain types of games more popular than others?  
 
-● What was the average rental duration for all videos?
+● What other publishers will likely be the main competitors in certain markets?  
 
-● Which countries are Rockbuster customers based in?
+● Have any games decreased or increased in popularity over time?  
 
-● Where are customers with a high lifetime value based?
-
-● Do sales figures vary between geographic regions?
+● How have their sales figures varied between geographic regions over time?  
 
 # Data
-The data set can be found here: [dvdrental (1).zip](https://github.com/juleeanasuelee/Rockbuster---SQL/files/10436176/dvdrental.1.zip)
+The data set can be found here: [vgsales.xlsx](https://github.com/juleeanasuelee/GameCo/blob/main/vgsales.xlsx).
 
 # PowerPoint Report
 The PowerPoint can be accessed [here](https://docs.google.com/presentation/d/1LmZGsDgCLzGj6g4uoL7iN4vP8_EhrY18/edit?usp=sharing&ouid=102152495986573621475&rtpof=true&sd=true).
